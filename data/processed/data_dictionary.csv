@@ -1,0 +1,22 @@
+﻿field,unit_or_type,meaning,definition_and_caveat
+module,String,Source file path,Stable file-level module proxy; same file can recur in several releases.
+component,String,Package area,"Derived from the first directory under org/apache/calcite; this is an analysis grouping, not an instructor-provided component field."
+language,Category,Programming language,Java for all selected Calcite rows.
+project,String,Project name,Apache Calcite subset.
+release_version,String,Release version,"One of 16 Calcite releases, 1.0.0 through 1.15.0."
+release_order,Integer,Release sequence,Semantic version order; calendar release dates are unavailable.
+size_loc,Lines of code,File size,SM_file_loc in the prepared data.
+complexity_wmc_sum,WMC,Complexity,SM_class_wmc_sum; sum of class weighted methods per file.
+complexity_wmc_avg,WMC,Complexity,SM_class_wmc_avg; average class weighted methods per file.
+coupling_cbo_sum,CBO,Coupling,SM_class_cbo_sum; sum of class coupling-between-objects values per file.
+coupling_cbo_avg,CBO,Coupling,SM_class_cbo_avg; average class CBO per file.
+defect_count,Count,Defects,BUGFIX_count from prepared release-level source.
+contributor_count,Distinct authors,Contributors,MOSER_authors; distinct developers who modified the file.
+commit_count_proxy,Revision count,Process activity,"MOSER_revisions; count of file revisions, used as an activity proxy, not an exact assignment commit table."
+churn_lines_proxy,Signed lines,Net code change,"MOSER_sum_code_churn; additions minus deletions, so negative values are valid."
+change_volume_proxy,Lines added + deleted,Change volume,"Derived as MOSER_sum_lines_added + MOSER_sum_lines_deleted; proxy for total change activity, not test coverage or commit-level churn."
+churn_avg_proxy,Signed lines per revision,Net code change,MOSER_avg_code_churn; signed net change average; not used as total change volume.
+defects_per_kloc,Defects per KLOC,Size-adjusted measure,Defect count divided by file LOC/1000 within each module-release row; descriptive and sensitive to small files.
+severity_*_count,Issue-file links,Defect severity,Unique issue identifiers deduplicated per file and release from bug_fixes JSON; totals reconcile to BUGFIX_count across selected rows.
+test_coverage,Percent,Not available,No coverage field was found in the selected Calcite tables. Kept unavailable; never imputed as zero.
+release_date,Date,Not available,Calendar release dates are not provided in the selected table; release order is used for trend charts.

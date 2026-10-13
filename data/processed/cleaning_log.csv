@@ -1,0 +1,11 @@
+﻿step,rule_applied,result_or_audit
+Subset,Selected 16 Apache Calcite releases (1.0.0–1.15.0) from the larger SmartSHARK prepared release archive.,"19,751 module-release records."
+Field selection,"Retained file identifier, Java metrics, size, defect labels, MOSER process metrics, release version, and issue severity; excluded thousands of unrelated source columns.",Only fields needed for the assignment-adapted analysis are in the analysis table.
+Grain,Used one row per module file per release. Component was derived from the package path and release order from semantic versions.,0 duplicate module-release keys.
+Defect labels,Missing BUGFIX_count values were interpreted as zero for this prepared source; nonnegative counts retained. Severity issue identifiers were deduplicated within file and release.,2138 defect labels; severity JSON reconciles with zero mismatch rows.
+Language and invalid ranges,Selected only Java records; checked size and complexity for negative values.,Non-Java rows: 0; negative size: 0; negative WMC: 0 .
+Extreme complexity,Kept extreme valid values and reported the 99th-percentile threshold instead of deleting outliers.,Top-1% threshold: 295.5; rows above it: 198 .
+Signed net churn,Kept MOSER_sum_code_churn as signed net additions minus deletions. Negative values are meaningful; they are not treated as invalid or as total volume.,Negative signed-net rows: 1253 .
+Change volume,Derived change_volume_proxy = MOSER_sum_lines_added + MOSER_sum_lines_deleted to represent additions-plus-deletions activity; labeled as a proxy.,Negative change-volume rows: 0 .
+Severity mapping,Deduplicated repeated issue IDs per file-release before severity aggregation. Unmatched JSON module paths checked against release rows.,No unmatched severity file paths; defect count and issue severity totals reconcile.
+Unavailable assignment fields,Did not create synthetic test coverage or calendar dates. Used release sequence for trends.,Coverage and release dates are explicitly unavailable.

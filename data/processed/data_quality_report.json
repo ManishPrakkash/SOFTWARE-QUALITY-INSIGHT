@@ -1,0 +1,874 @@
+{
+  "source": "SmartSHARK prepared release-level data, Calcite subset",
+  "releases": [
+    {
+      "release_version": "1.0.0",
+      "release_order": 1,
+      "rows": 1075,
+      "unique_modules": 1075,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 178,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 224
+    },
+    {
+      "release_version": "1.1.0",
+      "release_order": 2,
+      "rows": 1103,
+      "unique_modules": 1103,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 113,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 145
+    },
+    {
+      "release_version": "1.2.0",
+      "release_order": 3,
+      "rows": 1108,
+      "unique_modules": 1108,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 126,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 165
+    },
+    {
+      "release_version": "1.3.0",
+      "release_order": 4,
+      "rows": 1115,
+      "unique_modules": 1115,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 112,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 147
+    },
+    {
+      "release_version": "1.4.0",
+      "release_order": 5,
+      "rows": 1127,
+      "unique_modules": 1127,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 123,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 155
+    },
+    {
+      "release_version": "1.5.0",
+      "release_order": 6,
+      "rows": 1176,
+      "unique_modules": 1176,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 103,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 134
+    },
+    {
+      "release_version": "1.6.0",
+      "release_order": 7,
+      "rows": 1193,
+      "unique_modules": 1193,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 107,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 142
+    },
+    {
+      "release_version": "1.7.0",
+      "release_order": 8,
+      "rows": 1252,
+      "unique_modules": 1252,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 128,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 179
+    },
+    {
+      "release_version": "1.8.0",
+      "release_order": 9,
+      "rows": 1301,
+      "unique_modules": 1301,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 101,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 146
+    },
+    {
+      "release_version": "1.9.0",
+      "release_order": 10,
+      "rows": 1310,
+      "unique_modules": 1310,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 90,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 146
+    },
+    {
+      "release_version": "1.10.0",
+      "release_order": 11,
+      "rows": 1310,
+      "unique_modules": 1310,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 84,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 132
+    },
+    {
+      "release_version": "1.11.0",
+      "release_order": 12,
+      "rows": 1331,
+      "unique_modules": 1331,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 80,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 125
+    },
+    {
+      "release_version": "1.12.0",
+      "release_order": 13,
+      "rows": 1415,
+      "unique_modules": 1415,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 81,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 105
+    },
+    {
+      "release_version": "1.13.0",
+      "release_order": 14,
+      "rows": 1275,
+      "unique_modules": 1275,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 53,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 71
+    },
+    {
+      "release_version": "1.14.0",
+      "release_order": 15,
+      "rows": 1308,
+      "unique_modules": 1308,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 53,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 67
+    },
+    {
+      "release_version": "1.15.0",
+      "release_order": 16,
+      "rows": 1352,
+      "unique_modules": 1352,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 45,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 56
+    }
+  ],
+  "overall": {
+    "module_release_rows": 19751,
+    "unique_modules_across_releases": 1644,
+    "components": 24,
+    "releases": 16,
+    "duplicate_module_release_rows": 0,
+    "missing_by_field": {
+      "module": 0,
+      "contributor_count": 0,
+      "churn_avg_proxy": 0,
+      "commit_count_proxy": 0,
+      "churn_lines_proxy": 0,
+      "lines_added_proxy": 0,
+      "lines_deleted_proxy": 0,
+      "coupling_cbo_avg": 0,
+      "coupling_cbo_sum": 0,
+      "complexity_wmc_avg": 0,
+      "complexity_wmc_sum": 0,
+      "size_loc": 0,
+      "defect_count": 0,
+      "release_version": 0,
+      "release_order": 0,
+      "project": 0,
+      "language": 0,
+      "component": 0,
+      "change_volume_proxy": 0,
+      "defects_per_kloc": 0,
+      "severity_issue_count": 0,
+      "severity_unknown_count": 0,
+      "severity_blocker_count": 0,
+      "severity_critical_count": 0,
+      "severity_major_count": 0,
+      "severity_minor_count": 0,
+      "severity_normal_count": 0,
+      "severity_trivial_count": 0,
+      "severity_enhancement_count": 0
+    },
+    "defect_count_total": 2138,
+    "module_release_rows_with_defect": 1577,
+    "json_severity_issue_count_total": 2138,
+    "defect_count_vs_severity_json_mismatch_rows": 0,
+    "non_java_rows": 0,
+    "negative_size_rows": 0,
+    "negative_complexity_rows": 0,
+    "negative_signed_net_change_rows": 1253,
+    "negative_change_volume_proxy_rows": 0,
+    "negative_commit_proxy_rows": 0,
+    "negative_contributor_rows": 0,
+    "extreme_complexity_rows_above_top_1pct_threshold": 198,
+    "extreme_complexity_top_1pct_threshold": 295.5,
+    "coverage_available": false,
+    "release_calendar_dates_available": false
+  },
+  "correlations": [
+    {
+      "metric": "complexity_wmc_sum",
+      "n_module_release_rows": 19751,
+      "spearman_rho": 0.26125241188005804,
+      "p_value_exploratory": 1.4816638333202242e-305
+    },
+    {
+      "metric": "complexity_wmc_avg",
+      "n_module_release_rows": 19751,
+      "spearman_rho": 0.21692581407957298,
+      "p_value_exploratory": 5.18334620575128e-209
+    },
+    {
+      "metric": "coupling_cbo_sum",
+      "n_module_release_rows": 19751,
+      "spearman_rho": 0.2656974796657705,
+      "p_value_exploratory": 0.0
+    },
+    {
+      "metric": "coupling_cbo_avg",
+      "n_module_release_rows": 19751,
+      "spearman_rho": 0.20650492759573902,
+      "p_value_exploratory": 3.52677021764225e-189
+    },
+    {
+      "metric": "change_volume_proxy",
+      "n_module_release_rows": 19751,
+      "spearman_rho": 0.22919667739161484,
+      "p_value_exploratory": 9.643020773991644e-234
+    },
+    {
+      "metric": "commit_count_proxy",
+      "n_module_release_rows": 19751,
+      "spearman_rho": 0.2342400626245227,
+      "p_value_exploratory": 2.413504182828284e-244
+    },
+    {
+      "metric": "contributor_count",
+      "n_module_release_rows": 19751,
+      "spearman_rho": 0.22213743325810736,
+      "p_value_exploratory": 2.4798721850764413e-219
+    },
+    {
+      "metric": "size_loc",
+      "n_module_release_rows": 19751,
+      "spearman_rho": 0.2755157647746422,
+      "p_value_exploratory": 0.0
+    }
+  ],
+  "component_rows": [
+    {
+      "component": "adapter",
+      "module_release_rows": 2805,
+      "unique_modules": 249,
+      "total_defects": 373,
+      "total_size_loc_exposure": 455239.0,
+      "modules_with_repeated_defects": 36,
+      "defects_per_kloc_exposure": 0.8193498360202004
+    },
+    {
+      "component": "avatica",
+      "module_release_rows": 1392,
+      "unique_modules": 252,
+      "total_defects": 82,
+      "total_size_loc_exposure": 692793.0,
+      "modules_with_repeated_defects": 17,
+      "defects_per_kloc_exposure": 0.1183614730518351
+    },
+    {
+      "component": "benchmarks",
+      "module_release_rows": 40,
+      "unique_modules": 4,
+      "total_defects": 0,
+      "total_size_loc_exposure": 5336.0,
+      "modules_with_repeated_defects": 0,
+      "defects_per_kloc_exposure": 0.0
+    },
+    {
+      "component": "config",
+      "module_release_rows": 74,
+      "unique_modules": 5,
+      "total_defects": 4,
+      "total_size_loc_exposure": 7523.0,
+      "modules_with_repeated_defects": 2,
+      "defects_per_kloc_exposure": 0.5317027781470158
+    },
+    {
+      "component": "interpreter",
+      "module_release_rows": 432,
+      "unique_modules": 27,
+      "total_defects": 40,
+      "total_size_loc_exposure": 54720.0,
+      "modules_with_repeated_defects": 2,
+      "defects_per_kloc_exposure": 0.7309941520467836
+    },
+    {
+      "component": "jdbc",
+      "module_release_rows": 279,
+      "unique_modules": 19,
+      "total_defects": 58,
+      "total_size_loc_exposure": 65148.0,
+      "modules_with_repeated_defects": 7,
+      "defects_per_kloc_exposure": 0.890280591883097
+    },
+    {
+      "component": "linq4j",
+      "module_release_rows": 1985,
+      "unique_modules": 130,
+      "total_defects": 7,
+      "total_size_loc_exposure": 417543.0,
+      "modules_with_repeated_defects": 2,
+      "defects_per_kloc_exposure": 0.016764740397994936
+    },
+    {
+      "component": "materialize",
+      "module_release_rows": 157,
+      "unique_modules": 12,
+      "total_defects": 3,
+      "total_size_loc_exposure": 30130.0,
+      "modules_with_repeated_defects": 1,
+      "defects_per_kloc_exposure": 0.09956853634251576
+    },
+    {
+      "component": "model",
+      "module_release_rows": 255,
+      "unique_modules": 16,
+      "total_defects": 8,
+      "total_size_loc_exposure": 22880.0,
+      "modules_with_repeated_defects": 2,
+      "defects_per_kloc_exposure": 0.3496503496503497
+    },
+    {
+      "component": "piglet",
+      "module_release_rows": 22,
+      "unique_modules": 2,
+      "total_defects": 11,
+      "total_size_loc_exposure": 10827.0,
+      "modules_with_repeated_defects": 1,
+      "defects_per_kloc_exposure": 1.0159785720882977
+    },
+    {
+      "component": "plan",
+      "module_release_rows": 998,
+      "unique_modules": 64,
+      "total_defects": 129,
+      "total_size_loc_exposure": 303042.0,
+      "modules_with_repeated_defects": 9,
+      "defects_per_kloc_exposure": 0.42568356861425155
+    },
+    {
+      "component": "prepare",
+      "module_release_rows": 144,
+      "unique_modules": 9,
+      "total_defects": 34,
+      "total_size_loc_exposure": 67788.0,
+      "modules_with_repeated_defects": 4,
+      "defects_per_kloc_exposure": 0.5015636985897209
+    },
+    {
+      "component": "profile",
+      "module_release_rows": 3,
+      "unique_modules": 3,
+      "total_defects": 0,
+      "total_size_loc_exposure": 1447.0,
+      "modules_with_repeated_defects": 0,
+      "defects_per_kloc_exposure": 0.0
+    },
+    {
+      "component": "rel",
+      "module_release_rows": 3434,
+      "unique_modules": 260,
+      "total_defects": 465,
+      "total_size_loc_exposure": 714433.0,
+      "modules_with_repeated_defects": 48,
+      "defects_per_kloc_exposure": 0.6508657914737981
+    },
+    {
+      "component": "rex",
+      "module_release_rows": 669,
+      "unique_modules": 46,
+      "total_defects": 73,
+      "total_size_loc_exposure": 175084.0,
+      "modules_with_repeated_defects": 7,
+      "defects_per_kloc_exposure": 0.41694272463503235
+    },
+    {
+      "component": "root",
+      "module_release_rows": 38,
+      "unique_modules": 3,
+      "total_defects": 0,
+      "total_size_loc_exposure": 4061.0,
+      "modules_with_repeated_defects": 0,
+      "defects_per_kloc_exposure": 0.0
+    },
+    {
+      "component": "runtime",
+      "module_release_rows": 403,
+      "unique_modules": 30,
+      "total_defects": 61,
+      "total_size_loc_exposure": 95955.0,
+      "modules_with_repeated_defects": 5,
+      "defects_per_kloc_exposure": 0.6357146579125632
+    },
+    {
+      "component": "schema",
+      "module_release_rows": 655,
+      "unique_modules": 47,
+      "total_defects": 24,
+      "total_size_loc_exposure": 61938.0,
+      "modules_with_repeated_defects": 3,
+      "defects_per_kloc_exposure": 0.38748425845200035
+    },
+    {
+      "component": "server",
+      "module_release_rows": 32,
+      "unique_modules": 2,
+      "total_defects": 0,
+      "total_size_loc_exposure": 1335.0,
+      "modules_with_repeated_defects": 0,
+      "defects_per_kloc_exposure": 0.0
+    },
+    {
+      "component": "sql",
+      "module_release_rows": 4270,
+      "unique_modules": 340,
+      "total_defects": 571,
+      "total_size_loc_exposure": 845581.0,
+      "modules_with_repeated_defects": 62,
+      "defects_per_kloc_exposure": 0.6752753432255455
+    },
+    {
+      "component": "sql2rel",
+      "module_release_rows": 244,
+      "unique_modules": 20,
+      "total_defects": 131,
+      "total_size_loc_exposure": 192943.0,
+      "modules_with_repeated_defects": 4,
+      "defects_per_kloc_exposure": 0.678956997662522
+    },
+    {
+      "component": "tools",
+      "module_release_rows": 200,
+      "unique_modules": 14,
+      "total_defects": 29,
+      "total_size_loc_exposure": 41846.0,
+      "modules_with_repeated_defects": 1,
+      "defects_per_kloc_exposure": 0.6930172537399035
+    },
+    {
+      "component": "unmapped",
+      "module_release_rows": 4,
+      "unique_modules": 1,
+      "total_defects": 0,
+      "total_size_loc_exposure": 312.0,
+      "modules_with_repeated_defects": 0,
+      "defects_per_kloc_exposure": 0.0
+    },
+    {
+      "component": "util",
+      "module_release_rows": 1216,
+      "unique_modules": 89,
+      "total_defects": 35,
+      "total_size_loc_exposure": 295575.0,
+      "modules_with_repeated_defects": 5,
+      "defects_per_kloc_exposure": 0.11841326228537596
+    }
+  ],
+  "release_rows": [
+    {
+      "release_order": 1,
+      "release_version": "1.0.0",
+      "module_rows": 1075,
+      "unique_modules": 1075,
+      "total_defects": 224,
+      "modules_with_defects": 178,
+      "total_size_loc": 223025.0,
+      "avg_complexity_wmc": 10.498132481010089,
+      "total_churn_lines": 193144,
+      "defects_per_kloc": 1.004371707207712
+    },
+    {
+      "release_order": 2,
+      "release_version": "1.1.0",
+      "module_rows": 1103,
+      "unique_modules": 1103,
+      "total_defects": 145,
+      "modules_with_defects": 113,
+      "total_size_loc": 227946.0,
+      "avg_complexity_wmc": 10.54368841462195,
+      "total_churn_lines": 189837,
+      "defects_per_kloc": 0.636115571231783
+    },
+    {
+      "release_order": 3,
+      "release_version": "1.2.0",
+      "module_rows": 1108,
+      "unique_modules": 1108,
+      "total_defects": 165,
+      "modules_with_defects": 126,
+      "total_size_loc": 231667.0,
+      "avg_complexity_wmc": 10.826869976969085,
+      "total_churn_lines": 193793,
+      "defects_per_kloc": 0.7122291910371352
+    },
+    {
+      "release_order": 4,
+      "release_version": "1.3.0",
+      "module_rows": 1115,
+      "unique_modules": 1115,
+      "total_defects": 147,
+      "modules_with_defects": 112,
+      "total_size_loc": 234826.0,
+      "avg_complexity_wmc": 10.89846537072331,
+      "total_churn_lines": 42732,
+      "defects_per_kloc": 0.62599541788388
+    },
+    {
+      "release_order": 5,
+      "release_version": "1.4.0",
+      "module_rows": 1127,
+      "unique_modules": 1127,
+      "total_defects": 155,
+      "modules_with_defects": 123,
+      "total_size_loc": 239974.0,
+      "avg_complexity_wmc": 10.970066951256106,
+      "total_churn_lines": 26534,
+      "defects_per_kloc": 0.6459033061915042
+    },
+    {
+      "release_order": 6,
+      "release_version": "1.5.0",
+      "module_rows": 1176,
+      "unique_modules": 1176,
+      "total_defects": 134,
+      "modules_with_defects": 103,
+      "total_size_loc": 290213.0,
+      "avg_complexity_wmc": 10.986176649889552,
+      "total_churn_lines": 78438,
+      "defects_per_kloc": 0.46172983291582387
+    },
+    {
+      "release_order": 7,
+      "release_version": "1.6.0",
+      "module_rows": 1193,
+      "unique_modules": 1193,
+      "total_defects": 142,
+      "modules_with_defects": 107,
+      "total_size_loc": 300332.0,
+      "avg_complexity_wmc": 11.176308335872502,
+      "total_churn_lines": 96594,
+      "defects_per_kloc": 0.47281009016688197
+    },
+    {
+      "release_order": 8,
+      "release_version": "1.7.0",
+      "module_rows": 1252,
+      "unique_modules": 1252,
+      "total_defects": 179,
+      "modules_with_defects": 128,
+      "total_size_loc": 309486.0,
+      "avg_complexity_wmc": 11.275865844359641,
+      "total_churn_lines": 74796,
+      "defects_per_kloc": 0.5783783434468764
+    },
+    {
+      "release_order": 9,
+      "release_version": "1.8.0",
+      "module_rows": 1301,
+      "unique_modules": 1301,
+      "total_defects": 146,
+      "modules_with_defects": 101,
+      "total_size_loc": 323855.0,
+      "avg_complexity_wmc": 11.068393388014595,
+      "total_churn_lines": 62741,
+      "defects_per_kloc": 0.4508190393849099
+    },
+    {
+      "release_order": 10,
+      "release_version": "1.9.0",
+      "module_rows": 1310,
+      "unique_modules": 1310,
+      "total_defects": 145,
+      "modules_with_defects": 90,
+      "total_size_loc": 329821.0,
+      "avg_complexity_wmc": 11.277579572318713,
+      "total_churn_lines": 34129,
+      "defects_per_kloc": 0.439632406669072
+    },
+    {
+      "release_order": 11,
+      "release_version": "1.10.0",
+      "module_rows": 1310,
+      "unique_modules": 1310,
+      "total_defects": 132,
+      "modules_with_defects": 84,
+      "total_size_loc": 330722.0,
+      "avg_complexity_wmc": 11.280831798781817,
+      "total_churn_lines": 27177,
+      "defects_per_kloc": 0.399126759030243
+    },
+    {
+      "release_order": 12,
+      "release_version": "1.11.0",
+      "module_rows": 1331,
+      "unique_modules": 1331,
+      "total_defects": 125,
+      "modules_with_defects": 80,
+      "total_size_loc": 338429.0,
+      "avg_complexity_wmc": 11.225346793298403,
+      "total_churn_lines": 29257,
+      "defects_per_kloc": 0.36935369013884745
+    },
+    {
+      "release_order": 13,
+      "release_version": "1.12.0",
+      "module_rows": 1415,
+      "unique_modules": 1415,
+      "total_defects": 105,
+      "modules_with_defects": 81,
+      "total_size_loc": 349637.0,
+      "avg_complexity_wmc": 11.221129949393582,
+      "total_churn_lines": 44363,
+      "defects_per_kloc": 0.30031146589176777
+    },
+    {
+      "release_order": 14,
+      "release_version": "1.13.0",
+      "module_rows": 1275,
+      "unique_modules": 1275,
+      "total_defects": 71,
+      "modules_with_defects": 53,
+      "total_size_loc": 270336.0,
+      "avg_complexity_wmc": 10.54083077802253,
+      "total_churn_lines": 35862,
+      "defects_per_kloc": 0.2626361268939394
+    },
+    {
+      "release_order": 15,
+      "release_version": "1.14.0",
+      "module_rows": 1308,
+      "unique_modules": 1308,
+      "total_defects": 67,
+      "modules_with_defects": 53,
+      "total_size_loc": 277861.0,
+      "avg_complexity_wmc": 10.497976655655652,
+      "total_churn_lines": 27043,
+      "defects_per_kloc": 0.24112775812366616
+    },
+    {
+      "release_order": 16,
+      "release_version": "1.15.0",
+      "module_rows": 1352,
+      "unique_modules": 1352,
+      "total_defects": 56,
+      "modules_with_defects": 45,
+      "total_size_loc": 285349.0,
+      "avg_complexity_wmc": 10.344668834776641,
+      "total_churn_lines": 24997,
+      "defects_per_kloc": 0.19625090678432378
+    }
+  ],
+  "data_quality_by_release": [
+    {
+      "release_version": "1.0.0",
+      "release_order": 1,
+      "rows": 1075,
+      "unique_modules": 1075,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 178,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 224
+    },
+    {
+      "release_version": "1.1.0",
+      "release_order": 2,
+      "rows": 1103,
+      "unique_modules": 1103,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 113,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 145
+    },
+    {
+      "release_version": "1.2.0",
+      "release_order": 3,
+      "rows": 1108,
+      "unique_modules": 1108,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 126,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 165
+    },
+    {
+      "release_version": "1.3.0",
+      "release_order": 4,
+      "rows": 1115,
+      "unique_modules": 1115,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 112,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 147
+    },
+    {
+      "release_version": "1.4.0",
+      "release_order": 5,
+      "rows": 1127,
+      "unique_modules": 1127,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 123,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 155
+    },
+    {
+      "release_version": "1.5.0",
+      "release_order": 6,
+      "rows": 1176,
+      "unique_modules": 1176,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 103,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 134
+    },
+    {
+      "release_version": "1.6.0",
+      "release_order": 7,
+      "rows": 1193,
+      "unique_modules": 1193,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 107,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 142
+    },
+    {
+      "release_version": "1.7.0",
+      "release_order": 8,
+      "rows": 1252,
+      "unique_modules": 1252,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 128,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 179
+    },
+    {
+      "release_version": "1.8.0",
+      "release_order": 9,
+      "rows": 1301,
+      "unique_modules": 1301,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 101,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 146
+    },
+    {
+      "release_version": "1.9.0",
+      "release_order": 10,
+      "rows": 1310,
+      "unique_modules": 1310,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 90,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 146
+    },
+    {
+      "release_version": "1.10.0",
+      "release_order": 11,
+      "rows": 1310,
+      "unique_modules": 1310,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 84,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 132
+    },
+    {
+      "release_version": "1.11.0",
+      "release_order": 12,
+      "rows": 1331,
+      "unique_modules": 1331,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 80,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 125
+    },
+    {
+      "release_version": "1.12.0",
+      "release_order": 13,
+      "rows": 1415,
+      "unique_modules": 1415,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 81,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 105
+    },
+    {
+      "release_version": "1.13.0",
+      "release_order": 14,
+      "rows": 1275,
+      "unique_modules": 1275,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 53,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 71
+    },
+    {
+      "release_version": "1.14.0",
+      "release_order": 15,
+      "rows": 1308,
+      "unique_modules": 1308,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 53,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 67
+    },
+    {
+      "release_version": "1.15.0",
+      "release_order": 16,
+      "rows": 1352,
+      "unique_modules": 1352,
+      "duplicate_module_release_rows": 0,
+      "modules_with_json_severity": 45,
+      "unmatched_json_files": 0,
+      "defect_json_count_mismatches": 0,
+      "json_issue_file_records": 56
+    }
+  ]
+}
